@@ -44,5 +44,5 @@ I'll like to know better ways to add a hover state on an image element without m
 
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
 - Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
-- Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
+- Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou) 
 
